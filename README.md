@@ -1,4 +1,4 @@
-## Paulo Matos 
+## 🖖 Paulo Matos 
 
 <div align="center">
 
@@ -12,19 +12,19 @@
 
 <br/>
 
-## Sobre mim
+## ✨ Sobre mim
 
 Desde cedo sempre gostei de tecnologia, ainda no ensino médio, tive a sorte de estudar em uma escola integrada, onde esse interesse começou a ganhar forma. De lá pra cá, essa curiosidade nunca foi embora, e hoje decidi transformá-la em carreira. Estou em transição para a área, com foco em desenvolvimento back-end com Python, construindo minha base através do curso de Análise e Desenvolvimento de Sistemas e de projetos práticos de portfólio, um de cada vez. Meu objetivo é crescer na carreira, colocar em prática tudo que venho aprendendo e continuar evoluindo a cada dia, sempre com a mesma vontade de aprender que trago desde o começo.
 
-## Stack
+## ⚡ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,sqlite,git,github&theme=dark" />
 
-## Formação
+## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas** — em andamento
 
-## Em foco agora
+## 🎯 Em foco agora
 - Fundamentos de Python para back-end, APIs REST e autenticação
 - Próximos passos: cloud, cibersegurança e IA aplicada a software
 
