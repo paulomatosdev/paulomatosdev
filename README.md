@@ -20,27 +20,11 @@ Desde cedo sempre gostei de tecnologia, ainda no ensino médio, tive a sorte de 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,sqlite,git,github&theme=dark" />
 
-## Projetos
-<table> 
-<tr> <td width="50%" valign="top">
-🥗 Vitta Nutricion
-
-Sistema de nutrição e saúde com agendamento de nutricionista, gestão de exames, dietas personalizadas e módulo de IA para cálculo de macros via foto da refeição.
-
-Python Next.js TypeScript Tailwind
-
-Status: em construção (iniciado pela API backend)
-
-→ Repositório
-
-</td> </tr> </table>
-
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas** — em andamento
 
 ## Em foco agora
-
 - Fundamentos de Python para back-end, APIs REST e autenticação
 - Próximos passos: cloud, cibersegurança e IA aplicada a software
 
@@ -48,7 +32,7 @@ Status: em construção (iniciado pela API backend)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulomatosdev&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=6a0dad&text_color=c9c9c9" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulomatosdev&theme=radical&hide_border=true&background=0d0221&stroke=6a0dad&ring=a855f7&fire=a855f7" width="48%"/>
 
 <picture>
