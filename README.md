@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:6a0dad&height=180&section=header&text=Paulo%20Matos&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Python" width="100%"/>
 
-<a href="https://github.com/paulomatosdev"><img src="https://img.shields.io/badge/GitHub-6A0DAD?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="[https://github.com/paulomatosdev](https://github.com/paulomatosdev?tab=repositories)"><img src="https://img.shields.io/badge/GitHub-6A0DAD?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/paulomatosdev"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:paulo.dematos23@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=flat-square&logo=gmail&logoColor=white"/></a>
 
