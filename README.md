@@ -18,7 +18,7 @@ Desde cedo sempre gostei de tecnologia, ainda no ensino médio, tive a sorte de 
 
 ## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github&theme=dark" />
 
 ## 🎓 Formação
 
